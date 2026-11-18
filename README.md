@@ -7,6 +7,16 @@
 
 > **Research portfolio overview.** This is an independent, public-facing summary of my contributions to a collaborative research project. It is **not** the laboratory's official repository and contains no private research source code, internal datasets, or unpublished experimental artifacts.
 
+## Portfolio navigation
+
+I work at the intersection of statistical inference, machine learning, and reliable model evaluation. Other public projects:
+
+- [Toronto Home-Price Prediction — Error Analysis & Statistical Evaluation](https://github.com/Y237cui/toronto-home-price-analysis)
+- [Data Pipeline Engineering — Internship Showcase](https://github.com/Y237cui/donkin-data-pipeline-showcase)
+- [Interactive NBA Career Analytics — R Shiny](https://github.com/Y237cui/nba-career-analytics-r-shiny)
+
+**Target roles:** Data Scientist · Statistical Modeling · Risk / Model Validation · Quantitative Analytics
+
 ## Research overview
 
 Reliable evaluation of time-series anomaly detection is challenging when anomalies occur over **intervals rather than isolated observations**. A detector may identify part of an anomalous event, flag the event late, fragment it into several alarms, or produce false positives around the event boundaries. Pointwise metrics do not always reflect these distinctions.
